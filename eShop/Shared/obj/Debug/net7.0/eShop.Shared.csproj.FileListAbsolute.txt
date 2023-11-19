@@ -1,0 +1,11 @@
+D:\projects\eShop\eShop\Shared\bin\Debug\net7.0\eShop.Shared.deps.json
+D:\projects\eShop\eShop\Shared\bin\Debug\net7.0\eShop.Shared.dll
+D:\projects\eShop\eShop\Shared\bin\Debug\net7.0\eShop.Shared.pdb
+D:\projects\eShop\eShop\Shared\obj\Debug\net7.0\eShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\eShop\eShop\Shared\obj\Debug\net7.0\eShop.Shared.AssemblyInfoInputs.cache
+D:\projects\eShop\eShop\Shared\obj\Debug\net7.0\eShop.Shared.AssemblyInfo.cs
+D:\projects\eShop\eShop\Shared\obj\Debug\net7.0\eShop.Shared.csproj.CoreCompileInputs.cache
+D:\projects\eShop\eShop\Shared\obj\Debug\net7.0\eShop.Shared.dll
+D:\projects\eShop\eShop\Shared\obj\Debug\net7.0\refint\eShop.Shared.dll
+D:\projects\eShop\eShop\Shared\obj\Debug\net7.0\eShop.Shared.pdb
+D:\projects\eShop\eShop\Shared\obj\Debug\net7.0\ref\eShop.Shared.dll
